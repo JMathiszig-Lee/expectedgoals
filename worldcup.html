@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Bokeh Plot</title>
+    <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.0.2.min.js"></script>
+    <script type="text/javascript">
+        Bokeh.set_log_level("info");
+    </script>
+  </head>
+  <body>
+    <div id="d42bd3db-1bc5-4633-8ea3-a3af5c6a1d9a" data-root-id="p11896" style="display: contents;"></div>
+  
+    <script type="application/json" id="p12605">
+      {"25e80818-daa7-4a7a-851d-22ee599b75ba":{"version":"3.0.2","title":"Bokeh Application","defs":[],"roots":[{"type":"object","name":"Figure","id":"p11896","attributes":{"x_range":{"type":"object","name":"Range1d","id":"p11959","attributes":{"start":-1,"end":10}},"y_range":{"type":"object","name":"Range1d","id":"p11960","attributes":{"start":-1,"end":10}},"x_scale":{"type":"object","name":"LinearScale","id":"p11910"},"y_scale":{"type":"object","name":"LinearScale","id":"p11912"},"title":{"type":"object","name":"Title","id":"p11899","attributes":{"text":"xG vs Actual Goals at the 2022 world cup"}},"renderers":[{"type":"object","name":"GlyphRenderer","id":"p11942","attributes":{"data_source":{"type":"object","name":"ColumnDataSource","id":"p11933","attributes":{"selected":{"type":"object","name":"Selection","id":"p11934","attributes":{"indices":[],"line_indices":[]}},"selection_policy":{"type":"object","name":"UnionRenderers","id":"p11935"},"data":{"type":"map","entries":[["index",{"type":"ndarray","array":{"type":"bytes","data":"AAAAAAEAAAACAAAAAwAAAAQAAAAFAAAABgAAAAcAAAAIAAAACQAAAAoAAAALAAAADAAAAA0AAAAOAAAADwAAABAAAAARAAAAEgAAABMAAAAUAAAAFQAAABYAAAAXAAAAGAAAABkAAAAaAAAAGwAAABwAAAAdAAAAHgAAAB8AAAAgAAAAIQAAACIAAAAjAAAAJAAAACUAAAAmAAAAJwAAACgAAAApAAAAKgAAACsAAAAsAAAALQAAAC4AAAAvAAAAMAAAADEAAAAyAAAA"},"shape":[51],"dtype":"int32","order":"little"}],["Team",{"type":"ndarray","array":["Japan","Costa Rica","Argentina","Mexico","France","Denmark","Poland","Saudi Arabia","Tunisia","Australia","Football","Soccer","Netherlands","Ecuador","Qatar","Senegal","Wales","Iran","Brazil","Serbia","Portugal","Ghana","Uruguay","South Korea","Switzerland","Cameroon","Belgium","Canada","Spain","Costa Rica","Germany","Japan","Morocco","Croatia","France","Australia","Mexico","Poland","Denmark","Tunisia","Argentina","Saudi Arabia","USA","Wales","Senegal","Netherlands","England","Iran","Qatar","Ecuador","Fulham"],"shape":[51],"dtype":"object","order":"little"}],["xG",{"type":"ndarray","array":{"type":"bytes","data":"zczMzMzM8D+4HoXrUbi+P4/C9Shcj9I/KVyPwvUozD+kcD0K16MEQKRwPQrXo+g/UrgehetRAEDsUbgehev9P5qZmZmZmfE/hetRuB6F4z+4HoXrUbjeP8P1KFyPwu0/7FG4HoXrsT8K16NwPQr7P3E9CtejcO0/w/UoXI/C9T+4HoXrUbjuP83MzMzMzPw/CtejcD0KAUBxPQrXo3DNP5qZmZmZmQNAXI/C9Shc7z/sUbgehevhPylcj8L1KOQ/16NwPQrX+z/sUbgehevpP4XrUbgehes/pHA9CtejBkBSuB6F61EOQAAAAAAAAAAAPQrXo3A9DEBI4XoUrkf1P3sUrkfhetQ/w/UoXI/C5T/NzMzMzMwQQOF6FK5H4eI/FK5H4XoU5j+kcD0K16PwP2ZmZmZmZvY/pHA9Ctej9D8pXI/C9SgCQOxRuB6F68E/PQrXo3A96j+uR+F6FK77P/YoXI/C9eg/w/UoXI/C8T/sUbgehesBQDMzMzMzM/M/ZmZmZmZm1j+PwvUoXI/yP8P1KFyPwv0/"},"shape":[51],"dtype":"float64","order":"little"}],["Goals",{"type":"ndarray","array":{"type":"bytes","data":"AAAAAAEAAAACAAAAAAAAAAIAAAABAAAAAgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAEAAAABAAAAAwAAAAAAAAACAAAAAgAAAAAAAAADAAAAAgAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAcAAAAAAAAAAQAAAAIAAAAAAAAAAAAAAAQAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAACAAAAAQAAAAEAAAAAAAAAAgAAAAYAAAACAAAAAAAAAAIAAAABAAAA"},"shape":[51],"dtype":"int32","order":"little"}],["Home/Away",{"type":"ndarray","array":["Home","Away","Home","Away","Home","Away","Home","Away","Home","Away","Home","Away","Home","Away","Home","Away","Home","Away","Home","Away","Home","Away","Home","Away","Home","Away","Home","Away","Home","Away","Home","Away","Home","Away","Home","Away","Home","Away","Home","Away","Home","Away","Home","Away","Home","Away","Home","Away","Home","Away","Home"],"shape":[51],"dtype":"object","order":"little"}],["Game",{"type":"ndarray","array":["Japan 0-1 Costa Rica","Japan 0-1 Costa Rica","Argentina 2-0 Mexico","Argentina 2-0 Mexico","France 2-1 Denmark","France 2-1 Denmark","Poland 2-0 Saudi Arabia","Poland 2-0 Saudi Arabia","Tunisia 0-1 Australia","Tunisia 0-1 Australia","Football 0-0 Soccer","Football 0-0 Soccer","Netherlands 1-1 Ecuador","Netherlands 1-1 Ecuador","Qatar 1-3 Senegal","Qatar 1-3 Senegal","Wales 0-2 Iran","Wales 0-2 Iran","Brazil 2-0 Serbia","Brazil 2-0 Serbia","Portugal 3-2 Ghana","Portugal 3-2 Ghana","Uruguay 0-0 South Korea","Uruguay 0-0 South Korea","Switzerland 1-0 Cameroon","Switzerland 1-0 Cameroon","Belgium 1-0 Canada","Belgium 1-0 Canada","Spain 7-0 Costa Rica","Spain 7-0 Costa Rica","Germany 1-2 Japan","Germany 1-2 Japan","Morocco 0-0 Croatia","Morocco 0-0 Croatia","France 4-1 Australia","France 4-1 Australia","Mexico 0-0 Poland","Mexico 0-0 Poland","Denmark 0-0 Tunisia","Denmark 0-0 Tunisia","Argentina 1-2 Saudi Arabia","Argentina 1-2 Saudi Arabia","USA 1-1 Wales","USA 1-1 Wales","Senegal 0-2 Netherlands","Senegal 0-2 Netherlands","England 6-2 Iran","England 6-2 Iran","Qatar 0-2 Ecuador","Qatar 0-2 Ecuador","Fulham 1-2 Man Utd"],"shape":[51],"dtype":"object","order":"little"}],["Goals_Predicted",{"type":"ndarray","array":{"type":"bytes","data":"x5H84Cw18T+mnDi0pVzPP6bhHM2CZdk/hCyk/19l1T+h7t5hrIgDQEm5BycUauo/gKR5Nzpa/z+sf7k6buz8P42NrYUO7PE/IaE0PKPX5T+CHWl9pyDiP3DR2hGF/O4/db6wjpilyT8VwqK2Dlr6P+6fLQNes+4/LRF5RAqj9T/3ZeI9+tfvP2NSW4dl7Ps/pYHC/LRRAECJj/4crvfVP7kNLHLtmgJAfmSeLSQ18D+WqdLy32nkPyYEj1nxaeY/271TW/AQ+z9Tf7xhsI7rP992Hqtz/Ow/EGSZfeBRBUBLCNbdiS0MQDBUv/NSpcE/e0Zw/gtSCkDpRnWuTzX1P7UKLCVtHNs/s/vworTX5z/FQ0U0WhsPQBw+2h5VReU/NS2esdsg6D8G+aVZmRDxPzF002FYNfY/5OMakQGj9D/uriCwvVEBQF0U0RTv0tA/1bBpcNfX6z8aJf3TXOz6P8vqtDU7s+o/TiYEDaIQ8j/NyR5l4BoBQBmFD8/RWfM/wzM7fVfT3D8UIrWxg8fyP+rmYrPax/w/"},"shape":[51],"dtype":"float64","order":"little"}]]}}},"view":{"type":"object","name":"CDSView","id":"p11943","attributes":{"filter":{"type":"object","name":"AllIndices","id":"p11944"}}},"glyph":{"type":"object","name":"Circle","id":"p11939","attributes":{"x":{"type":"field","field":"xG"},"y":{"type":"field","field":"Goals"},"size":{"type":"value","value":10},"line_color":{"type":"value","value":"green"},"fill_color":{"type":"value","value":"green"},"fill_alpha":{"type":"value","value":0.3},"hatch_color":{"type":"value","value":"green"}}},"nonselection_glyph":{"type":"object","name":"Circle","id":"p11940","attributes":{"x":{"type":"field","field":"xG"},"y":{"type":"field","field":"Goals"},"size":{"type":"value","value":10},"line_color":{"type":"value","value":"green"},"line_alpha":{"type":"value","value":0.1},"fill_color":{"type":"value","value":"green"},"fill_alpha":{"type":"value","value":0.1},"hatch_color":{"type":"value","value":"green"},"hatch_alpha":{"type":"value","value":0.1}}},"muted_glyph":{"type":"object","name":"Circle","id":"p11941","attributes":{"x":{"type":"field","field":"xG"},"y":{"type":"field","field":"Goals"},"size":{"type":"value","value":10},"line_color":{"type":"value","value":"green"},"line_alpha":{"type":"value","value":0.2},"fill_color":{"type":"value","value":"green"},"fill_alpha":{"type":"value","value":0.2},"hatch_color":{"type":"value","value":"green"},"hatch_alpha":{"type":"value","value":0.2}}}}}],"toolbar":{"type":"object","name":"Toolbar","id":"p11903","attributes":{"tools":[{"type":"object","name":"HoverTool","id":"p11928","attributes":{"renderers":"auto","tooltips":"@Team: @Game"}},{"type":"object","name":"SaveTool","id":"p11929"}]}},"left":[{"type":"object","name":"LinearAxis","id":"p11921","attributes":{"ticker":{"type":"object","name":"BasicTicker","id":"p11922","attributes":{"mantissas":[1,2,5]}},"formatter":{"type":"object","name":"BasicTickFormatter","id":"p11923"},"axis_label":"Goals","major_label_policy":{"type":"object","name":"AllLabels","id":"p11924"},"fixed_location":0}}],"below":[{"type":"object","name":"LinearAxis","id":"p11914","attributes":{"ticker":{"type":"object","name":"BasicTicker","id":"p11915","attributes":{"mantissas":[1,2,5]}},"formatter":{"type":"object","name":"BasicTickFormatter","id":"p11916"},"axis_label":"xG","major_label_policy":{"type":"object","name":"AllLabels","id":"p11917"},"fixed_location":0}}],"center":[{"type":"object","name":"Grid","id":"p11920","attributes":{"axis":{"id":"p11914"}}},{"type":"object","name":"Grid","id":"p11927","attributes":{"dimension":1,"axis":{"id":"p11921"}}},{"type":"object","name":"Legend","id":"p11957","attributes":{"items":[{"type":"object","name":"LegendItem","id":"p11958","attributes":{"label":{"type":"value","value":"r=0.5747"},"renderers":[{"id":"p11942"}]}}]}}]}}]}}
+    </script>
+    <script type="text/javascript">
+      (function() {
+        const fn = function() {
+          Bokeh.safely(function() {
+            (function(root) {
+              function embed_document(root) {
+              const docs_json = document.getElementById('p12605').textContent;
+              const render_items = [{"docid":"25e80818-daa7-4a7a-851d-22ee599b75ba","roots":{"p11896":"d42bd3db-1bc5-4633-8ea3-a3af5c6a1d9a"},"root_ids":["p11896"]}];
+              root.Bokeh.embed.embed_items(docs_json, render_items);
+              }
+              if (root.Bokeh !== undefined) {
+                embed_document(root);
+              } else {
+                let attempts = 0;
+                const timer = setInterval(function(root) {
+                  if (root.Bokeh !== undefined) {
+                    clearInterval(timer);
+                    embed_document(root);
+                  } else {
+                    attempts++;
+                    if (attempts > 100) {
+                      clearInterval(timer);
+                      console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                    }
+                  }
+                }, 10, root)
+              }
+            })(window);
+          });
+        };
+        if (document.readyState != "loading") fn();
+        else document.addEventListener("DOMContentLoaded", fn);
+      })();
+    </script>
+  </body>
+</html>

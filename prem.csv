@@ -1,4 +1,196 @@
 Team,xG,Goals,Home/Away,Game
+Japan,1.05,0,Home,Japan 0-1 Costa Rica
+Costa Rica,0.12,1,Away,Japan 0-1 Costa Rica
+Argentina,0.29,2,Home,Argentina 2-0 Mexico
+Mexico,0.22,0,Away,Argentina 2-0 Mexico
+France,2.58,2,Home,France 2-1 Denmark
+Denmark,0.77,1,Away,France 2-1 Denmark
+Poland,2.04,2,Home,Poland 2-0 Saudi Arabia
+Saudi Arabia,1.87,0,Away,Poland 2-0 Saudi Arabia
+Tunisia,1.10,0,Home,Tunisia 0-1 Australia
+Australia,0.61,1,Away,Tunisia 0-1 Australia
+Football,0.48,0,Home,Football 0-0 Soccer
+Soccer,0.93,0,Away,Football 0-0 Soccer
+Netherlands,0.07,1,Home,Netherlands 1-1 Ecuador
+Ecuador,1.69,1,Away,Netherlands 1-1 Ecuador
+Qatar,0.92,1,Home,Qatar 1-3 Senegal
+Senegal,1.36,3,Away,Qatar 1-3 Senegal
+Wales,0.96,0,Home,Wales 0-2 Iran
+Iran,1.80,2,Away,Wales 0-2 Iran
+Brazil,2.13,2,Home,Brazil 2-0 Serbia
+Serbia,0.23,0,Away,Brazil 2-0 Serbia
+Portugal,2.45,3,Home,Portugal 3-2 Ghana
+Ghana,0.98,2,Away,Portugal 3-2 Ghana
+Uruguay,0.56,0,Home,Uruguay 0-0 South Korea
+South Korea,0.63,0,Away,Uruguay 0-0 South Korea
+Switzerland,1.74,1,Home,Switzerland 1-0 Cameroon
+Cameroon,0.81,0,Away,Switzerland 1-0 Cameroon
+Belgium,0.86,1,Home,Belgium 1-0 Canada
+Canada,2.83,0,Away,Belgium 1-0 Canada
+Spain,3.79,7,Home,Spain 7-0 Costa Rica
+Costa Rica,0.00,0,Away,Spain 7-0 Costa Rica
+Germany,3.53,1,Home,Germany 1-2 Japan
+Japan,1.33,2,Away,Germany 1-2 Japan
+Morocco,0.32,0,Home,Morocco 0-0 Croatia
+Croatia,0.68,0,Away,Morocco 0-0 Croatia
+France,4.20,4,Home,France 4-1 Australia
+Australia,0.59,1,Away,France 4-1 Australia
+Mexico,0.69,0,Home,Mexico 0-0 Poland
+Poland,1.04,0,Away,Mexico 0-0 Poland
+Denmark,1.40,0,Home,Denmark 0-0 Tunisia
+Tunisia,1.29,0,Away,Denmark 0-0 Tunisia
+Argentina,2.27,1,Home,Argentina 1-2 Saudi Arabia
+Saudi Arabia,0.14,2,Away,Argentina 1-2 Saudi Arabia
+USA,0.82,1,Home,USA 1-1 Wales
+Wales,1.73,1,Away,USA 1-1 Wales
+Senegal,0.78,0,Home,Senegal 0-2 Netherlands
+Netherlands,1.11,2,Away,Senegal 0-2 Netherlands
+England,2.24,6,Home,England 6-2 Iran
+Iran,1.20,2,Away,England 6-2 Iran
+Qatar,0.35,0,Home,Qatar 0-2 Ecuador
+Ecuador,1.16,2,Away,Qatar 0-2 Ecuador
+Fulham,1.86,1,Home,Fulham 1-2 Man Utd
+Man Utd,2.92,2,Away,Fulham 1-2 Man Utd
+Brighton,0.67,1,Home,Brighton 1-2 Aston Villa
+Aston Villa,1.28,2,Away,Brighton 1-2 Aston Villa
+Wolves,0.48,0,Home,Wolves 0-2 Arsenal
+Arsenal,2.18,2,Away,Wolves 0-2 Arsenal
+Newcastle,1.37,1,Home,Newcastle 1-0 Chelsea
+Chelsea,0.31,0,Away,Newcastle 1-0 Chelsea
+West Ham,1.25,0,Home,West Ham 0-2 Leicester
+Leicester,1.76,2,Away,West Ham 0-2 Leicester
+Nottm Forest,1.13,1,Home,Nottm Forest 1-0 C Palace
+C Palace,1.20,0,Away,Nottm Forest 1-0 C Palace
+Bournemouth,2.80,3,Home,Bournemouth 3-0 Everton
+Everton,0.71,0,Away,Bournemouth 3-0 Everton
+Tottenham,1.89,4,Home,Tottenham 4-3 Leeds
+Leeds,1.64,3,Away,Tottenham 4-3 Leeds
+Liverpool,2.04,3,Home,Liverpool 3-1 Southampton
+Southampton,0.93,1,Away,Liverpool 3-1 Southampton
+Man City,1.57,1,Home,Man City 1-2 Brentford
+Brentford,1.90,2,Away,Man City 1-2 Brentford
+Man Utd,2.23,4,Home,Man Utd 4-2 Aston Villa
+Aston Villa,0.77,2,Away,Man Utd 4-2 Aston Villa
+Liverpool,2.13,0,Home,Liverpool 0-0 Derby
+Derby,0.47,0,Away,Liverpool 0-0 Derby
+Man City,1.82,2,Home,Man City 2-0 Chelsea
+Chelsea,1.90,0,Away,Man City 2-0 Chelsea
+Arsenal,1.56,1,Home,Arsenal 1-3 Brighton
+Brighton,2.39,3,Away,Arsenal 1-3 Brighton
+Nottm Forest,1.55,2,Home,Nottm Forest 2-0 Spurs
+Spurs,0.57,0,Away,Nottm Forest 2-0 Spurs
+Tottenham,1.81,1,Home,Tottenham 1-2 Liverpool
+Liverpool,1.24,2,Away,Tottenham 1-2 Liverpool
+Southampton,1.67,1,Home,Southampton 1-4 Newcastle
+Newcastle,1.17,4,Away,Southampton 1-4 Newcastle
+Aston Villa,0.70,3,Home,Aston Villa 3-1 Man Utd
+Man Utd,0.52,1,Away,Aston Villa 3-1 Man Utd
+West Ham,0.25,1,Home,West Ham 1-2 C Palace
+C Palace,0.85,2,Away,West Ham 1-2 C Palace
+Chelsea,0.24,0,Home,Chelsea 0-1 Arsenal
+Arsenal,2.38,1,Away,Chelsea 0-1 Arsenal
+Wolves,1.36,2,Home,Wolves 2-3 Brighton
+Brighton,1.92,3,Away,Wolves 2-3 Brighton
+N Forest,1.61,2,Home,N Forest 2-2 Brentford
+Brentford,1.51,2,Away,N Forest 2-2 Brentford
+Leeds,2.41,4,Home,Leeds 4-3 Bournemouth
+Bournemouth,1.66,3,Away,Leeds 4-3 Bournemouth
+Man City,2.26,2,Home,Man City 2-1 Fulham
+Fulham,0.86,1,Away,Man City 2-1 Fulham
+Arsenal,1.86,1,Home,Arsenal 1-0 FC Zurich
+FC Zurich,0.44,0,Away,Arsenal 1-0 FC Zurich
+Chelsea,2.95,2,Home,Chelsea 2-1 D Zagreb
+D Zagreb,0.91,1,Away,Chelsea 2-1 D Zagreb
+Man City,2.08,3,Home,Man City 3-1 Sevilla
+Sevilla,0.39,1,Away,Man City 3-1 Sevilla
+Liverpool,2.59,2,Home,Liverpool 2-0 Napoli
+Napoli,0.41,0,Away,Liverpool 2-0 Napoli
+Marseille,1.70,1,Home,Marseille 1-2 Tottenham
+Tottenham,0.68,2,Away,Marseille 1-2 Tottenham
+Man Utd,1.39,1,Home,Man Utd 1-0 West Ham
+West Ham,0.98,0,Away,Man Utd 1-0 West Ham
+Arsenal,2.78,5,Home,Arsenal 5-0 N Forest
+N Forest,0.30,0,Away,Arsenal 5-0 N Forest
+Liverpool,1.97,1,Home,Liverpool 1-2 Leeds
+Leeds,1.75,2,Away,Liverpool 1-2 Leeds
+Fulham,1.84,0,Home,Fulham 0-0 Everton
+Everton,1.00,0,Away,Fulham 0-0 Everton
+Brentford,1.14,1,Home,Brentford 1-1 Wolves
+Wolves,0.78,1,Away,Brentford 1-1 Wolves
+Newcastle,3.48,4,Home,Newcastle 4-0 Aston Villa
+Aston Villa,0.36,0,Away,Newcastle 4-0 Aston Villa
+C Palace,0.91,1,Home,C Palace 1-0 Southampton
+Southampton,1.53,0,Away,C Palace 1-0 Southampton
+Bournemouth,0.97,2,Home,Bournemouth 2-3 Spurs
+Spurs,2.37,3,Away,Bournemouth 2-3 Spurs
+Brighton,2.08,4,Home,Brighton 4-1 Chelsea
+Chelsea,1.22,1,Away,Brighton 4-1 Chelsea
+Leicester,0.71,0,Home,Leicester 0-1 Man City
+Man City,1.19,1,Away,Leicester 0-1 Man City
+Man Utd,3.10,3,Home,Man Utd 3-0 Sheriff
+Sheriff,0.00,0,Away,Man Utd 3-0 Sheriff
+PSV,0.86,2,Home,PSV 2-0 Arsenal
+Arsenal,1.66,0,Away,PSV 2-0 Arsenal
+Tottenham,1.87,1,Home,Tottenham 1-1 Sporting CP
+Sporting CP,0.85,1,Away,Tottenham 1-1 Sporting CP
+Ajax,0.98,0,Home,Ajax 0-3 Liverpool
+Liverpool,1.42,3,Away,Ajax 0-3 Liverpool
+Dortmund,1.31,0,Home,Dortmund 0-0 Man City
+Man City,1.20,0,Away,Dortmund 0-0 Man City
+Salzburg,1.45,1,Home,Salzburg 1-2 Chelsea
+Chelsea,1.52,2,Away,Salzburg 1-2 Chelsea
+Tottenham,1.61,1,Home,Tottenham 1-2 Newcastle
+Newcastle,1.50,2,Away,Tottenham 1-2 Newcastle
+Leeds,1.95,2,Home,Leeds 2-3 Fulham
+Fulham,2.24,3,Away,Leeds 2-3 Fulham
+Wolves,1.85,0,Home,Wolves 0-4 Leicester
+Leicester,1.06,4,Away,Wolves 0-4 Leicester
+Aston Villa,3.13,4,Home,Aston Villa 4-0 Brentford
+Brentford,1.03,0,Away,Aston Villa 4-0 Brentford
+Southampton,0.59,1,Home,Southampton 1-1 Arsenal
+Arsenal,1.52,1,Away,Southampton 1-1 Arsenal
+Chelsea,1.09,1,Home,Chelsea 1-1 Man Utd
+Man Utd,1.07,1,Away,Chelsea 1-1 Man Utd
+Man City,1.90,3,Home,Man City 3-1 Brighton
+Brighton,0.55,1,Away,Man City 3-1 Brighton
+Everton,1.64,3,Home,Everton 3-0 C Palace
+C Palace,0.84,0,Away,Everton 3-0 C Palace
+N Forest,2.36,1,Home,N Forest 1-0 Liverpool
+Liverpool,2.13,0,Away,N Forest 1-0 Liverpool
+Leicester,0.73,2,Home,Leicester 2-0 Leeds
+Leeds,1.38,0,Away,Leicester 2-0 Leeds
+Fulham,3.15,3,Home,Fulham 3-0 Aston Villa
+Aston Villa,0.87,0,Away,Fulham 3-0 Aston Villa
+Arsenal,2.80,1,Home,Arsenal 1-0 PSV
+PSV,0.34,0,Away,Arsenal 1-0 PSV
+Man Utd,1.75,2,Home,Man Utd 2-0 Tottenham
+Tottenham,0.59,0,Away,Man Utd 2-0 Tottenham
+Newcastle,1.41,1,Home,Newcastle 1-0 Everton
+Everton,0.13,0,Away,Newcastle 1-0 Everton
+Liverpool,1.74,1,Home,Liverpool 1-0 West Ham
+West Ham,2.19,0,Away,Liverpool 1-0 West Ham
+Brentford,1.32,0,Home,Brentford 0-0 Chelsea
+Chelsea,1.06,0,Away,Brentford 0-0 Chelsea
+Crystal Palace,1.37,2,Home,Crystal Palace 2-1 Wolves
+Wolves,0.70,1,Away,Crystal Palace 2-1 Wolves
+Brighton,1.98,0,Home,Brighton 0-0 N Forest
+N Forest,0.16,0,Away,Brighton 0-0 N Forest
+Liverpool,2.27,1,Home,Liverpool 1-0 Man City
+Man City,1.04,0,Away,Liverpool 1-0 Man City
+Leeds,2.07,0,Home,Leeds 0-1 Arsenal
+Arsenal,0.80,1,Away,Leeds 0-1 Arsenal
+Man Utd,1.08,0,Home,Man Utd 0-0 Newcastle
+Newcastle,0.96,0,Away,Man Utd 0-0 Newcastle
+Aston Villa,2.20,0,Home,Aston Villa 0-2 Chelsea
+Chelsea,1.08,2,Away,Aston Villa 0-2 Chelsea
+Tottenham,2.83,2,Home,Tottenham 2-0 Everton
+Everton,0.52,0,Away,Tottenham 2-0 Everton
+Wolves,1.28,1,Home,Wolves 1-0 N Forest
+N Forest,1.51,0,Away,Wolves 1-0 N Forest
+Fulham,2.06,2,Home,Fulham 2-2 Bournemouth
+Bournemouth,1.46,2,Away,Fulham 2-2 Bournemouth
+Leicester,0.89,0,Home,Leicester 0-0 C Palace
+C Palace,0.44,0,Away,Leicester 0-0 C Palace
 Brentford,1.60,2,Home,Brentford 2-0 Brighton
 Brighton,1.62,0,Away,Brentford 2-0 Brighton
 Man Utd,4.15,1,Home,Man Utd 1-0 Omonia
@@ -2595,37 +2787,3 @@ Liverpool,3.47,2,Home,Liverpool 2-3 Atletico
 Atletico,1.18,3,Away,Liverpool 2-3 Atletico
 Leipzig,0.97,3,Home,Leipzig 3-0 Tottenham
 Tottenham,0.15,0,Away,Leipzig 3-0 Tottenham
-⭐️ Leicester,2.31,4,Home,⭐️ Leicester 4-0 A Villa
-A Villa,0.67,0,Away,⭐️ Leicester 4-0 A Villa
-⭐️ Man Utd,1.43,2,Home,⭐️ Man Utd 2-0 Man City
-Man City,0.75,0,Away,⭐️ Man Utd 2-0 Man City
-⭐️ Chelsea,2.17,4,Home,⭐️ Chelsea 4-0 Everton
-Everton,0.51,0,Away,⭐️ Chelsea 4-0 Everton
-Arsenal,1.53,1,Home,Arsenal 1-0 West Ham ⭐️
-West Ham ⭐️,1.62,0,Away,Arsenal 1-0 West Ham ⭐️
-⭐️ Liverpool,1.92,2,Home,⭐️ Liverpool 2-1 B’mouth
-B’mouth,1.63,1,Away,⭐️ Liverpool 2-1 B’mouth
-Tottenham,1.63,2,Home,Tottenham 2-3 Wolves ⭐️
-Wolves ⭐️,2.62,3,Away,Tottenham 2-3 Wolves ⭐️
-⭐️ Everton,2.10,1,Home,⭐️ Everton 1-1 Man Utd
-Man Utd,1.13,1,Away,⭐️ Everton 1-1 Man Utd
-⭐️ Watford,2.73,3,Home,⭐️ Watford 3-0 Liverpool
-Liverpool,0.20,0,Away,⭐️ Watford 3-0 Liverpool
-Norwich,0.57,1,Home,Norwich 1-0 Leicester ⭐️
-Leicester ⭐️,1.44,0,Away,Norwich 1-0 Leicester ⭐️
-⭐️ Arsenal,2.19,1,Home,⭐️ Arsenal 1-2 Olympiakos
-Olympiakos,1.50,2,Away,⭐️ Arsenal 1-2 Olympiakos
-Lyon,1.07,1,Home,Lyon 1-0 Juventus ⭐️
-Juventus ⭐️,1.09,0,Away,Lyon 1-0 Juventus ⭐️
-Real Madrid,1.14,1,Home,Real Madrid 1-2 Man City ⭐️
-Man City ⭐️,3.17,2,Away,Real Madrid 1-2 Man City ⭐️
-⭐️ Liverpool,2.38,3,Home,⭐️ Liverpool 3-2 West Ham
-West Ham,0.68,2,Away,⭐️ Liverpool 3-2 West Ham
-Arsenal,1.35,3,Home,Arsenal 3-2 Everton ⭐️
-Everton ⭐️,2.13,2,Away,Arsenal 3-2 Everton ⭐️
-⭐️ Chelsea,1.70,2,Home,⭐️ Chelsea 2-1 Spurs
-Spurs,0.27,1,Away,⭐️ Chelsea 2-1 Spurs
-⭐️ Chelsea,1.02,0,Home,⭐️ Chelsea 0-2 Man United
-Man United,0.64,2,Away,⭐️ Chelsea 0-2 Man United
-Newcastle,1.04,1,Home,Newcastle 1-0 Chelsea ⭐️
-Chelsea ⭐️,2.11,0,Away,Newcastle 1-0 Chelsea ⭐️
